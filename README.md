@@ -160,12 +160,12 @@ GitHub Actions fires on VM1 (self-hosted runner)
 
 ## Author
 
-**Oussama El Gourjt** — [@itsK1M0](https://github.com/itsK1M0)
+**Oussama El Gourjt** — [@itskimo](https://github.com/itskimo)
 
-Full portfolio: [kimo](https://oussama.itskimo.workers.dev/) · Built as a hands-on cybersecurity homelab to learn DevSecOps, SOC tooling, and log pipeline engineering from scratch.
+Full portfolio: [kimo](https://oussamaelg.site/) · Built as a hands-on cybersecurity homelab to learn DevSecOps, SOC tooling, and log pipeline engineering from scratch.
 
 ---
 
-*Full project writeup → [/projects/cicd-soc](https://oussama.itskimo.workers.dev/projects/cicd-soc)*
+*Full project writeup → [/projects/cicd-soc](https://oussamaelg.site/projects/secure-cicd-soc/)*
 
-*Full setup guide, configs, and pipeline code available upon request → [contact me](https://oussama.itskimo.workers.dev/#contact)*
+*Full setup guide, configs, and pipeline code available upon request → [contact me](https://oussamaelg.site/contact/)*
