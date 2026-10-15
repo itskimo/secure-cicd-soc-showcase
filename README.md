@@ -7,7 +7,7 @@
 > [!NOTE]
 > **The full source repository is private.** It contains real VM configurations, pipeline scripts, and lab credentials from a live environment — keeping it private is intentional, not an oversight. This page exists as a public showcase of the project's architecture, design decisions, and results.
 >
-> The complete codebase, configs, and setup documentation are available upon request — for hiring, review, or collaboration purposes. → **[Get in touch](https://oussama.itskimo.workers.dev/#contact)**
+> The complete codebase, configs, and setup documentation are available upon request — for hiring, review, or collaboration purposes. → **[Get in touch](https://oussamaelg.site)**
 
 ---
 
